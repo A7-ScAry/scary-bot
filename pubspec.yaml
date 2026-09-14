@@ -1,0 +1,57 @@
+name: scary_chat_bot_1_o
+description: "ScAry Bot - AI Assistant"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.6.0
+  flutter_markdown: ^0.7.7+1
+  flutter_math_fork: ^0.7.4
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+
+  # Main icon used by iOS and older Android versions
+  image_path: "assets/icon/scary_bot_icon.png"
+
+  # Proper Android adaptive icon
+  adaptive_icon_background: "#0D0D0D"
+  adaptive_icon_foreground: "assets/icon/scary_bot_foreground.png"
+
+  min_sdk_android: 21
+  remove_alpha_ios: true
+
+flutter_native_splash:
+  color: "#0D0D0D"
+  image: "assets/icon/scary_bot_icon.png"
+
+  android: true
+  ios: true
+
+  android_12:
+    color: "#0D0D0D"
+    image: "assets/icon/scary_bot_icon.png"
