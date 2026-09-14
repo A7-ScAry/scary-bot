@@ -2,7 +2,7 @@ name: scary_chat_bot_1_o
 description: "ScAry Bot - AI Assistant"
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.13.3
