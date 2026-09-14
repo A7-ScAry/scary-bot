@@ -1,6 +1,22 @@
+<div align="center">
+
 # ScAry Bot
 
-ScAry Bot is a Flutter-based AI assistant for Android.
+**A clean and lightweight AI assistant built with Flutter.**
+
+[![Latest Release](https://img.shields.io/github/v/release/A7-ScAry/scary-bot?label=Latest%20Release)](https://github.com/A7-ScAry/scary-bot/releases/latest)
+[![Android](https://img.shields.io/badge/Platform-Android-brightgreen)](https://github.com/A7-ScAry/scary-bot/releases/latest)
+[![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue)](https://flutter.dev)
+
+### [⬇ Download Latest APK](https://github.com/A7-ScAry/scary-bot/releases/latest)
+
+</div>
+
+---
+
+## About
+
+ScAry Bot is a Flutter-based AI assistant designed to provide a simple, fast and clean chatting experience on Android.
 
 ## Features
 
@@ -8,38 +24,60 @@ ScAry Bot is a Flutter-based AI assistant for Android.
 - Clean dark interface
 - Fast responses
 - Conversation history
-- Copy and regenerate responses
-- Android support
+- Copy responses
+- Regenerate responses
+- Lightweight Android app
+- Simple and responsive UI
 
 ## Download
 
-Download the latest Android APK from the Releases page:
+The latest Android release is available from GitHub Releases.
 
-**Latest version:** ScAry Bot v1.0.0
+### Latest version
 
-Go to:
+**ScAry Bot v1.0.0**
 
-`Releases → ScAry Bot v1.0.0 → Assets → ScAry-Bot-v1.0.0.apk`
+[Download ScAry Bot for Android](https://github.com/A7-ScAry/scary-bot/releases/latest)
+
+After opening the release page:
+
+`Assets → ScAry-Bot-v1.0.0.apk`
 
 ## Installation
 
-1. Download `ScAry-Bot-v1.0.0.apk`
-2. Open the downloaded APK on your Android device
-3. Android may ask you to allow installation from unknown sources
-4. Allow it for the browser or file manager you used
-5. Install ScAry Bot
-6. Open the app
+1. Download the latest APK.
+2. Open the downloaded file on your Android device.
+3. Android may ask you to allow installation from unknown sources.
+4. Allow installation for the browser or file manager you used.
+5. Install **ScAry Bot**.
+6. Open the app and start chatting.
 
-> Because ScAry Bot is currently distributed outside Google Play, Android may display an installation warning. This is normal for sideloaded APK files.
+> **Note:** ScAry Bot is currently distributed outside Google Play. Android may therefore display an installation warning for the APK.
 
-## Platform
+## Screenshots
 
+Screenshots coming soon.
+
+<!--
+You can later replace this section with something like:
+
+<p align="center">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/chat.png" width="250">
+</p>
+-->
+
+## Built With
+
+- Flutter
+- Dart
 - Android
-- Built with Flutter
 
 ## Version
 
-Current release: **v1.0.0**
+Current release:
+
+`v1.0.0`
 
 ## Developer
 
@@ -47,4 +85,14 @@ Developed by **A7-ScAry**
 
 ## Disclaimer
 
-ScAry Bot is an AI assistant. AI-generated responses may occasionally be inaccurate, so important information should be independently verified.
+ScAry Bot uses AI-generated responses. AI responses can occasionally be incomplete or inaccurate, so important information should be independently verified.
+
+---
+
+<div align="center">
+
+**ScAry Bot**
+
+Built with Flutter.
+
+</div>
