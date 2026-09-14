@@ -10,7 +10,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-brightgreen)](https://github.com/A7-ScAry/scary-bot/releases/latest)
 [![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue)](https://flutter.dev)
 
-### [⬇ Download ScAry Bot v1.0.0](https://github.com/A7-ScAry/scary-bot/releases/download/v1.0.0/ScAry-Bot-v1.0.0.apk)
+### [⬇ Download ScAry Bot v1.0.1](https://github.com/A7-ScAry/scary-bot/releases/download/v1.0.1/ScAry-Bot-v1.0.1.apk)
 
 </div>
 
@@ -39,9 +39,9 @@ The latest Android release is available directly below:
 
 ### Latest version
 
-**ScAry Bot v1.0.0**
+**ScAry Bot v1.0.1**
 
-### [⬇ Download APK](https://github.com/A7-ScAry/scary-bot/releases/download/v1.0.0/ScAry-Bot-v1.0.0.apk)
+### [⬇ Download APK](https://github.com/A7-ScAry/scary-bot/releases/download/v1.0.1/ScAry-Bot-v1.0.1.apk)
 
 You can also view all releases here:
 
@@ -49,7 +49,7 @@ You can also view all releases here:
 
 ## Installation
 
-1. Download `ScAry-Bot-v1.0.0.apk`
+1. Download `ScAry-Bot-v1.0.1.apk`
 2. Open the downloaded file on your Android device
 3. Android may ask you to allow installation from unknown sources
 4. Allow installation for the browser or file manager you used
@@ -69,7 +69,7 @@ You can also view all releases here:
 
 Current release:
 
-`v1.0.0`
+`v1.0.1`
 
 ## Developer
 
