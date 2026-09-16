@@ -744,7 +744,12 @@ class _ChatScreenState extends State<ChatScreen> {
                       minLines: 1,
                       maxLines: 5,
                       textCapitalization: TextCapitalization.sentences,
-                      textInputAction: TextInputAction.newline,
+                      textInputAction: TextInputAction.send,
+                      onSubmitted: (_) {
+                        if (!isLoading) {
+                          sendMessage();
+                        }
+                      },
                       decoration: InputDecoration(
                         hintText: isLoading
                             ? 'ScAry Bot is thinking...'
